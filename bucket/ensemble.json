@@ -1,17 +1,17 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Ensemble CLI: run tasks assigned from ensemblework.com on your computer, and connect your editor to Ensemble over MCP.",
   "homepage": "https://ensemblework.com/download",
   "license": "FSL-1.1-MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ensemblework/ensemble/releases/download/cli-v0.9.0/ensemble-cli-0.9.0-windows-x64.zip",
-      "hash": "7f6bc4849f62b1917b3bb7e1dfbd4c5e9348bf203179b010bf041ca386817625",
+      "url": "https://github.com/ensemblework/ensemble/releases/download/cli-v0.9.1/ensemble-cli-0.9.1-windows-x64.zip",
+      "hash": "6223ecdbedc9a3e6b26fc4b72015aa0e7c26ba82c09f26882ade2160d7c2b9b4",
       "extract_dir": "ensemble"
     },
     "arm64": {
-      "url": "https://github.com/ensemblework/ensemble/releases/download/cli-v0.9.0/ensemble-cli-0.9.0-windows-arm64.zip",
-      "hash": "6cfd8373c9c926a870d4741f768c8c8d4aab1a5c46bcce3639c47d79b0c71618",
+      "url": "https://github.com/ensemblework/ensemble/releases/download/cli-v0.9.1/ensemble-cli-0.9.1-windows-arm64.zip",
+      "hash": "b9e641ebdbf14853c4e6678bd0b4ab3716c19ea7b14815bd512674df06705ee8",
       "extract_dir": "ensemble"
     }
   },
